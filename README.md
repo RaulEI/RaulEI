@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @RaulEI
-- 👀 I’m interested in coding and privacy
-- 🌱 I’m currently learning all i can 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me imbriscaprova@gmail.com
+-  Hi, I’m Raul
+- I’m interested in coding and privacy
+- I’m currently learning all i can but im used to phyton
+- How to reach me imbriscaeduardo@gmail.com 
 
 <!---
 RaulEI/RaulEI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
